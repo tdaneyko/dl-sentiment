@@ -19,7 +19,7 @@ The original GloVe embeddings were far too verbose for my purpose, so I stripped
 
 The training and validation data has to be provided in a very simple tab-separated format with three columns; the first being completely irrelevant (the original data provided by the lecturer contained a tweet id), the second column containg the Tweet text and the third column containing two colons followed by the emotion class. For example:
 
-`<tweet_id>	i'm SO happy today!!! #yippie	:: joy`
+<code><tweet_id>&nbsp;&nbsp;&nbsp;&nbsp;i'm SO happy today!!! #yippie&nbsp;&nbsp;&nbsp;&nbsp;:: joy</code>
 
 ## Usage
 
