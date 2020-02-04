@@ -2,7 +2,7 @@
 
 This is the semester project I did for the course "Deep Learning" taught by Daniël de Kok at the University of Tübingen in the summer semester 2017.
 
-I have implemented a bidirectional recurrent neural network (biRNN) that is classifying tweets according to their conveyed emotion (anger, disgust, fear, joy, sadness and surprise) leveraging information from word embeddings, entries in an emotion-annotated lexicon and character-level embeddings. My model reaches a micro-averaged F1 score of 62.81 and a macro-averaged F1 score of 52.91.
+Using Tensorflow, I have implemented a bidirectional recurrent neural network (biRNN) that is classifying tweets according to their conveyed emotion (anger, disgust, fear, joy, sadness and surprise) leveraging information from word embeddings, entries in an emotion-annotated lexicon and character-level embeddings. My model reaches a micro-averaged F1 score of 62.81 and a macro-averaged F1 score of 52.91.
 
 Details on the design and implementation can be found in the accompanying project plan/proposal and report (under _doc_).
 
